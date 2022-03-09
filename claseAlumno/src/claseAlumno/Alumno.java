@@ -12,6 +12,7 @@ public String getNombre() {
 
 public void setNombre(String nombre) {
 	Nombre = nombre;
+	Nombre ="Lorea";
 }
 
 public String getApellidos() {
